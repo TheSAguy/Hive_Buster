@@ -1,0 +1,10 @@
+{
+  "name": "Hive_Buster",
+  "version": "0.4.0",
+  "title": "Hive_Buster",
+  "author": "TheSAguy",
+  "contact": "vvwmisc@hotmail.com",
+  "homepage": "",
+  "description": "Kill those Spawners",
+  "dependencies": ["base >= 0.12.30", "? Natural_Evolution_Enemies"]
+}
